@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "7935e83f9c6a8b7cbb5404d144b0d19e3ba93583f4388301c3dada37cd25adf8"
+    },
+    "vue-composition-api": {
+      "source": "thebushidocollective/han",
+      "sourceType": "github",
+      "skillPath": "plugins/frameworks/vue/skills/vue-composition-api/SKILL.md",
+      "computedHash": "4435300af7332a1fdcb3277b0ac4692eacb03b0787e5c67e4fdc07a11b23ec2b"
+    },
+    "local/skills/pinia-state-management": {
+      "version": "installed",
+      "path": ".skills/pinia-state-management.md"
+    },
+    "local/skills/tailwind-css-v3": {
+      "version": "installed",
+      "path": ".skills/tailwind-css-v3.md"
+    },
+    "local/skills/firebase-firestore-modular": {
+      "version": "installed",
+      "path": ".skills/firebase-firestore-modular.md"
+    }
+  }
+}

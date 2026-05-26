@@ -1,11 +1,9 @@
 <script setup></script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <main class="min-h-screen flex items-center justify-center bg-gray-100">
+    <div class="text-center p-8 bg-white rounded-xl shadow-lg">
+      <p class="text-gray-600">Hello World Setup Vue.js dan Tailwind CSS v4 berhasil!</p>
+    </div>
+  </main>
 </template>
-
-<style scoped></style>
